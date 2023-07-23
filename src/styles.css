@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+button {
+  padding: 5px;
+  padding-bottom: 0px;
+  outline: none;
+  border: none;
+  margin: 2px 2px;
+}
+button {
+  background: lightgrey;
+}
+li {
+  padding: 5px;
+}
